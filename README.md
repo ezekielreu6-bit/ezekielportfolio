@@ -3,12 +3,7 @@
 
 [![YouTube channel](https://www.youtube.com/@Aquaticdolls)
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
-
-## Demo
-
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+My portfolio is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
 ## Prerequisites
 
@@ -19,7 +14,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.wa.me/+2349120768554).
+If you want to contact me you can reach me at [WhatsApp](https://www.wa.me/+2349120768554).
 
 ## License
 
